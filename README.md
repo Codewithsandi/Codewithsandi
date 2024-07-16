@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]()
 <h1 align="center">Hi 👋, I'm Sandipan Kundu</h1>
 <h3 align="center">Crafting Intuitive User Experiences with Elegant Design and Clean Code</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsandi&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsandi" /> </p>
 
 - 🔭 I’m currently working on **30-days-of-Javascript-challenge**
